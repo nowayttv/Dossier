@@ -33,7 +33,7 @@ Le contrôle du **Temps d'Écran** sur iOS est une fonctionnalité conçue pour 
 #### Conclusion
 Le contrôle du Temps d'Écran sur iOS représente une mesure technique essentielle de protection. Il permet de garantir une utilisation équilibrée des appareils, favorise le bien-être des utilisateurs, protège les enfants des dangers d’un usage excessif et améliore la gestion du temps. Par son approche préventive et ses outils de contrôle, le Temps d'Écran devient un outil clé pour préserver la santé numérique et encourager des comportements responsables face à la technologie.
 
-! [Detournement control temps d'ecran] (image.png)
+![Detournement control temps d'ecran](image.png)
 
 ## Définition : 
 
