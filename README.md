@@ -2,48 +2,26 @@
 
 ## Introduction : 
 
-## Texte à modifier
+## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
 
 Le temps d'écran sur un iPhone peut être assimilé à une mesure de protection technique (MPT) dans les logiciels car il fonctionne de manière à contrôler et limiter l'accès à certaines fonctionnalités ou applications du périphérique, tout comme les MPT limitent ou gèrent l'accès au contenu numérique dans les logiciels.
 
-Voici pourquoi :
+## Voici pourquoi :
 
-Contrôle d'accès : Le temps d'écran permet aux utilisateurs (ou aux parents) de définir des limites sur l'utilisation des applications, de restreindre l'accès à certaines applications ou d'imposer des restrictions d'utilisation. Cela peut être comparé à une MPT, qui est conçue pour empêcher l'accès non autorisé ou des actions par les utilisateurs ou les logiciels.
-Application des restrictions : Tout comme une MPT peut imposer des règles sur la manière dont les logiciels ou le contenu numérique peuvent être utilisés (par exemple, empêcher la copie ou la modification du contenu protégé), le temps d'écran impose certaines limitations sur la manière dont l'appareil peut être utilisé — qu'il s'agisse de limiter le temps sur les applications ou de bloquer l'accès à du contenu spécifique.
-Difficile à contourner : De la même manière que les MPT incluent souvent des mécanismes techniques qui rendent difficile pour les utilisateurs de contourner les protections (par exemple, en utilisant des mécanismes de chiffrement ou des protections matérielles), le temps d'écran peut être configuré de manière à rendre difficile le contournement des restrictions, comme en exigeant un code de passe ou un identifiant Apple pour modifier les paramètres.
-Contrôle des fonctionnalités : Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un contrôle sur l'environnement dans lequel leurs produits fonctionnent, garantissant que leur propriété intellectuelle est protégée ou que le comportement de l'utilisateur est gouverné par certaines règles. Le temps d'écran donne aux utilisateurs d'iPhone un contrôle sur la façon dont l'appareil est utilisé, limitant l'accès à certaines fonctions et gérant le comportement, en particulier pour les enfants ou les utilisateurs qui peuvent avoir besoin d'une orientation.
+### 1. Contrôle d'accès : 
+Le temps d'écran permet aux utilisateurs (ou aux parents) de définir des limites sur l'utilisation des applications, de restreindre l'accès à certaines applications ou d'imposer des restrictions d'utilisation. Cela peut être comparé à une MPT, qui est conçue pour empêcher l'accès non autorisé ou des actions par les utilisateurs ou les logiciels.
+
+### 2. Application des restrictions : 
+Tout comme une MPT peut imposer des règles sur la manière dont les logiciels ou le contenu numérique peuvent être utilisés (par exemple, empêcher la copie ou la modification du contenu protégé), le temps d'écran impose certaines limitations sur la manière dont l'appareil peut être utilisé — qu'il s'agisse de limiter le temps sur les applications ou de bloquer l'accès à du contenu spécifique.
+
+### 3. Difficile à contourner : 
+De la même manière que les MPT incluent souvent des mécanismes techniques qui rendent difficile pour les utilisateurs de contourner les protections (par exemple, en utilisant des mécanismes de chiffrement ou des protections matérielles), le temps d'écran peut être configuré de manière à rendre difficile le contournement des restrictions, comme en exigeant un code de passe ou un identifiant Apple pour modifier les paramètres.
+
+### 4. Contrôle des fonctionnalités : 
+Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un contrôle sur l'environnement dans lequel leurs produits fonctionnent, garantissant que leur propriété intellectuelle est protégée ou que le comportement de l'utilisateur est gouverné par certaines règles. Le temps d'écran donne aux utilisateurs d'iPhone un contrôle sur la façon dont l'appareil est utilisé, limitant l'accès à certaines fonctions et gérant le comportement, en particulier pour les enfants ou les utilisateurs qui peuvent avoir besoin d'une orientation.
+
+## Conclusion : 
 En raison de ces parallèles, le temps d'écran fonctionne essentiellement comme une MPT personnelle qui régit la manière dont un appareil est utilisé et impose des limitations définies par l'utilisateur, ce qui le rend similaire au fonctionnement d'une MPT dans le domaine de la protection des logiciels.
-
-## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
-
-Le contrôle du **Temps d'Écran** sur iOS est une fonctionnalité conçue pour protéger les utilisateurs contre les risques liés à l’utilisation excessive des appareils mobiles. Elle propose plusieurs mécanismes permettant de limiter et de contrôler l’usage de l’iPhone, tant pour les adultes que pour les enfants. Voici en quoi elle peut être perçue comme une mesure technique de protection.
-
-### 1. Prévention de la dépendance numérique
-   - **Limitation de l'utilisation des applications** : Le Temps d'Écran permet aux utilisateurs de définir des limites sur des applications spécifiques ou des catégories d’applications (réseaux sociaux, jeux, etc.), ce qui aide à prévenir les risques de dépendance numérique.
-   - **Réduction des distractions** : Cette fonctionnalité permet de réduire le temps passé sur des applications non essentielles, ce qui améliore la concentration et réduit les distractions.
-
-### 2. Protection de la santé mentale et physique
-   - **Réduction de l'exposition aux écrans** : En limitant l’usage des appareils, notamment avant le coucher, le Temps d'Écran aide à minimiser l'impact négatif des écrans sur la qualité du sommeil et le bien-être général.
-   - **Notifications de rappels** : L’application envoie des alertes lorsque l'utilisateur approche de la limite de temps définie pour une application, l'incitant ainsi à prendre une pause et à réduire son temps d'écran.
-
-### 3. Protection des enfants et des adolescents
-   - **Limitation de l'accès à certaines applications** : Les parents peuvent définir des restrictions d’utilisation pour leurs enfants, garantissant que seules les applications appropriées à leur âge sont accessibles.
-   - **Suivi de l’activité** : Grâce aux rapports détaillés d’utilisation, les parents peuvent surveiller l’activité de leurs enfants sur l'appareil, en voyant quelles applications sont utilisées et combien de temps.
-
-### 4. Sécurité et confidentialité
-   - **Verrouillage des paramètres** : Le Temps d'Écran peut être protégé par un mot de passe ou un identifiant Apple, empêchant les modifications non autorisées des paramètres et garantissant la confidentialité des données de l’utilisateur.
-   - **Contrôle des données sensibles** : Cette fonctionnalité permet de s’assurer que des informations privées ne sont pas exposées ou partagées de manière inappropriée sur des applications non sécurisées.
-
-### 5. Équilibre entre la vie personnelle et professionnelle
-   - **Mode "Ne pas déranger"** : Le Temps d'Écran aide à maintenir un équilibre entre vie professionnelle et vie personnelle, en limitant l’accès aux notifications pendant certaines périodes (ex. : soirée ou weekend).
-   - **Amélioration de la productivité** : En limitant les distractions et l’accès aux applications de loisirs, cette fonctionnalité favorise un usage plus productif de l’appareil.
-
-### 6. Conformité avec les recommandations de santé numérique
-   - **Suivi des bonnes pratiques** : Le Temps d'Écran est en ligne avec les recommandations des experts de la santé numérique, qui préconisent de limiter le temps passé devant les écrans pour préserver la santé physique et mentale des utilisateurs.
-   - **Encouragement de l’usage responsable** : Cette fonctionnalité aide à instaurer des habitudes plus saines en matière de consommation numérique, en permettant une utilisation consciente et raisonnée des appareils mobiles.
-
-#### Conclusion
-Le contrôle du Temps d'Écran sur iOS représente une mesure technique essentielle de protection. Il permet de garantir une utilisation équilibrée des appareils, favorise le bien-être des utilisateurs, protège les enfants des dangers d’un usage excessif et améliore la gestion du temps. Par son approche préventive et ses outils de contrôle, le Temps d'Écran devient un outil clé pour préserver la santé numérique et encourager des comportements responsables face à la technologie.
 
 ![Detournement control temps d'ecran](image.png)
 
@@ -65,6 +43,7 @@ L’ingénierie sociale est une technique de manipulation psychologique visant �
 Le jailbreak consiste à contourner les restrictions imposées par un système d’exploitation (comme iOS) pour obtenir des privilèges élevés et exécuter des applications non autorisées. Dans le contexte du contrôle à distance de l’écran, un jailbreak peut être utilisé pour installer des logiciels permettant de surveiller ou de manipuler un appareil sans l’autorisation de l’utilisateur.
 
 This is an exemple [https://drfone.wondershare.fr/ios-upgrade/jailbreak-ios-18.html]
+
 ## Comment contourner le temps d'écran sur son iPhone sous iOS 18
 
 Le "Temps d'écran" est une fonctionnalité d'Apple qui permet de suivre et de limiter l'utilisation de votre appareil, mais il peut être contourné dans certains cas. Voici des astuces pour contourner le temps d'écran sur iOS 18. **Notez que contourner ces restrictions sans autorisation peut violer les règles d'usage et affecter la sécurité de l'appareil.**
