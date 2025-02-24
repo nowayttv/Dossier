@@ -1,9 +1,5 @@
 # Dossier
 
-## Comment contourner le temps d'écran sur son iPhone sous iOS 18
-
-Le "Temps d'écran" est une fonctionnalité d'Apple qui permet de suivre et de limiter l'utilisation de votre appareil, mais il peut être contourné dans certains cas. Voici des astuces pour contourner le temps d'écran sur iOS 18. **Notez que contourner ces restrictions sans autorisation peut violer les règles d'usage et affecter la sécurité de l'appareil.**
-
 ## Introduction : 
 
 ## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
@@ -36,6 +32,10 @@ Le contrôle du **Temps d'Écran** sur iOS est une fonctionnalité conçue pour 
 
 #### Conclusion
 Le contrôle du Temps d'Écran sur iOS représente une mesure technique essentielle de protection. Il permet de garantir une utilisation équilibrée des appareils, favorise le bien-être des utilisateurs, protège les enfants des dangers d’un usage excessif et améliore la gestion du temps. Par son approche préventive et ses outils de contrôle, le Temps d'Écran devient un outil clé pour préserver la santé numérique et encourager des comportements responsables face à la technologie.
+
+## Comment contourner le temps d'écran sur son iPhone sous iOS 18
+
+Le "Temps d'écran" est une fonctionnalité d'Apple qui permet de suivre et de limiter l'utilisation de votre appareil, mais il peut être contourné dans certains cas. Voici des astuces pour contourner le temps d'écran sur iOS 18. **Notez que contourner ces restrictions sans autorisation peut violer les règles d'usage et affecter la sécurité de l'appareil.**
 
 ## 1. Utiliser le mot de passe de l'écran de temps
 Si vous avez oublié ou souhaitez contourner les limites de temps d'écran, le moyen le plus direct est d'accéder au **mot de passe du temps d'écran**.
