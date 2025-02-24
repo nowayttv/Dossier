@@ -52,8 +52,7 @@ L’ingénierie sociale est une technique de manipulation psychologique visant �
 ### 5. Jailbreak (dans le cas du contrôle à distance de l’écran) : 
 Le jailbreak consiste à contourner les restrictions imposées par un système d’exploitation (comme iOS) pour obtenir des privilèges élevés et exécuter des applications non autorisées. Dans le contexte du contrôle à distance de l’écran, un jailbreak peut être utilisé pour installer des logiciels permettant de surveiller ou de manipuler un appareil sans l’autorisation de l’utilisateur.
 
-This is an [https://drfone.wondershare.fr/ios-upgrade/jailbreak-ios-18.html]
-
+This is an exemple [https://drfone.wondershare.fr/ios-upgrade/jailbreak-ios-18.html]
 ## Comment contourner le temps d'écran sur son iPhone sous iOS 18
 
 Le "Temps d'écran" est une fonctionnalité d'Apple qui permet de suivre et de limiter l'utilisation de votre appareil, mais il peut être contourné dans certains cas. Voici des astuces pour contourner le temps d'écran sur iOS 18. **Notez que contourner ces restrictions sans autorisation peut violer les règles d'usage et affecter la sécurité de l'appareil.**
