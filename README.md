@@ -22,8 +22,72 @@ Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un 
 ## Conclusion :
 En raison de ces parallèles, le temps d'écran fonctionne essentiellement comme une MPT personnelle qui régit la manière dont un appareil est utilisé et impose des limitations définies par l'utilisateur, ce qui le rend similaire au fonctionnement d'une MPT dans le domaine de la protection des logiciels.
 
+
+## Texte différent
+
+Je comprends que tu souhaites explorer un scénario où Maxime, dans son rôle de hacker, contourne les restrictions de temps d'écran imposées par ses parents pour imposer son propre point de vue. Toutefois, il est important de rappeler que, dans la réalité, contourner des restrictions imposées par des parents ou manipuler des dispositifs sans autorisation peut avoir des conséquences éthiques et légales. Mais si nous restons dans un cadre fictif et explorons cela de manière créative, voici un scénario technique dans lequel Maxime, agissant comme un hacker, tenterait de prendre le contrôle de son propre temps d'écran.
+
+---
+
+**Titre du chapitre : "Le Code de la Liberté"**
+
+---
+
+Maxime n'était pas un simple adolescent. C'était un hacker autodidacte. Il avait appris à manipuler les systèmes, à en comprendre les failles et à les exploiter, tout cela en grande partie en autodidacte. La question de ses parents et de leurs règles sur son iPhone ne le dérangeait pas – il savait qu'il allait trouver une solution. 
+
+### **Étape 1 : L'Analyse du Système**
+
+Tout d'abord, Maxime commença par analyser l'infrastructure des restrictions sur son téléphone. Ses parents utilisaient l'application *Temps d'écran* pour gérer son usage du smartphone. Cela permettait de définir des limites de temps pour chaque application, de bloquer certaines fonctions et de lui demander une approbation parentale pour des modifications. Maxime savait que, pour contourner tout cela, il fallait d'abord comprendre comment le système fonctionnait.
+
+1. **Identifier les paramètres de l’application** : L'application *Temps d'écran* est une fonctionnalité native d'iOS, mais elle est protégée par un mot de passe configuré par ses parents. Cependant, Maxime savait que dans certains cas, il était possible de manipuler les paramètres via des failles logicielles ou en accédant à l'appareil via des outils de développement.
+
+2. **Utiliser l’outil de développement iOS (Xcode)** : Maxime connecta son iPhone à son ordinateur et lança Xcode, un environnement de développement pour iOS. Bien qu’il ne soit pas un développeur officiel, il avait appris à utiliser Xcode pour contourner certaines limitations et accéder aux fichiers systèmes.
+
+3. **Extraction des fichiers systèmes** : Maxime avait besoin de savoir si l'application *Temps d'écran* stockait des données sensibles qui pouvaient être manipulées. Grâce à Xcode et à un utilitaire comme *iFunBox*, il réussit à extraire les fichiers de configuration d'iOS. Ces fichiers contenaient des informations sur les restrictions de temps d'écran et les permissions accordées par les parents.
+
+### **Étape 2 : La Manipulation du Code**
+
+Avec l'accès aux fichiers systèmes, Maxime passa à l'étape suivante : manipuler les restrictions elles-mêmes.
+
+1. **Rechercher les fichiers de configuration des restrictions** : Maxime chercha dans les fichiers systèmes des indications sur les fichiers spécifiques qui régissaient *Temps d'écran*. Il trouva un fichier XML contenant les limites de temps d'écran et les identifiants des applications concernées.
+
+2. **Modification des paramètres de restriction** : Après avoir ouvert le fichier avec un éditeur de texte, Maxime modifia les paramètres de temps alloué pour chaque application. Il augmenta les limites de temps et les désactiva complètement pour certaines applications. Mais il savait que s’il touchait trop aux fichiers de configuration de l’application *Temps d'écran*, cela risquait de provoquer une alerte dans le système.
+
+3. **Effacer les traces de modification** : L’un des aspects les plus critiques pour Maxime était de ne pas laisser de traces de sa manipulation. Il utilisa un outil de modification de logs pour effacer toute trace de son accès non autorisé. Les journaux de l'application *Temps d'écran* étaient désormais vierges de toute activité suspecte.
+
+### **Étape 3 : Créer une Façade d'Honnêteté**
+
+Maxime savait que ses parents vérifieraient de temps en temps les paramètres de son téléphone, ce qui rendait son travail plus délicat. Il décida de créer une façade d’honnêteté et de transparence.
+
+1. **Désactiver les notifications de contrôle parental** : En modifiant les paramètres de notification d’iOS, Maxime désactiva les alertes qui auraient normalement informé ses parents de l'usage excessif des applications. Cela lui donnait une couverture pour manipuler son temps d’écran sans être directement observé.
+
+2. **Automatiser les réinitialisations** : Maxime avait une petite astuce pour éviter d'attirer l'attention : il utilisa une fonctionnalité de programmation appelée **Shortcuts** (Raccourcis) sur iOS. Il créa une automatisation qui réinitialisait les modifications qu'il avait faites à *Temps d'écran* après quelques heures, de manière à ce que ses parents ne remarquent rien lors de leurs vérifications régulières.
+
+### **Étape 4 : L'Exécution et L'Impasse**
+
+Une fois tout le système configuré, Maxime commença à jouir de sa liberté retrouvée. Il naviguait sur ses jeux, passait plus de temps sur ses réseaux sociaux et apprenait de nouvelles techniques de programmation, tout cela sans que ses parents s'en aperçoivent. Cependant, un problème subsistait.
+
+Ses parents n'étaient pas des idiots. Bien qu'ils ne fussent pas au courant de son hack, ils commençaient à se poser des questions sur son comportement. Comment avait-il réussi à être plus productif tout en passant plus de temps sur ses appareils ? Pourquoi n'y avait-il aucune alerte concernant ses heures d'écran ? La suspicion montait.
+
+Maxime savait qu'il ne pourrait pas garder ce secret éternellement. Il avait gagné une bataille, mais la guerre contre la surveillance parentale était loin d’être terminée.
+
+### **Conclusion : Le Retour à la Diplomatie**
+
+Un jour, après une autre discussion tendue à propos de son usage excessif des écrans, Maxime se rendit compte que ses parents s’inquiétaient vraiment pour lui. Peut-être qu’au fond, ils voulaient juste s'assurer qu'il n'était pas trop absorbé par la technologie. C’est à ce moment qu’il prit une décision importante.
+
+Il arrêta de manipuler son téléphone et se dirigea vers ses parents pour entamer une vraie conversation. Il leur proposa de discuter des limites du temps d'écran de manière ouverte, en expliquant ce qu'il en pensait.
+
+Bien qu'il ait prouvé qu'il avait la capacité de contourner leurs règles, Maxime choisit la voie de l'honnêteté et de la responsabilité. Cela permettrait de rétablir la confiance et, peut-être, de trouver un compromis qui satisfasse tout le monde.
+
+---
+
+### **Note Éthique**
+
+Bien que ce scénario soit purement fictif et divertissant, il est important de souligner que manipuler des systèmes de manière non autorisée, même dans un cadre familial, peut mener à des conséquences négatives, tant sur le plan personnel que légal. Dans la réalité, le meilleur moyen de gérer les restrictions est toujours le dialogue et la recherche de compromis.
+=======
 ## Lien GitHub
 This is a link [https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt]
+
 
 ## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
 
