@@ -16,6 +16,7 @@ Tout comme une MPT peut imposer des règles sur la manière dont les logiciels o
 
 ### 3. Difficile à contourner : 
 De la même manière que les MPT incluent souvent des mécanismes techniques qui rendent difficile pour les utilisateurs de contourner les protections (par exemple, en utilisant des mécanismes de chiffrement ou des protections matérielles), le temps d'écran peut être configuré de manière à rendre difficile le contournement des restrictions, comme en exigeant un code de passe ou un identifiant Apple pour modifier les paramètres.
+
 ### 4.Contrôle des fonctionnalités : 
 Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un contrôle sur l'environnement dans lequel leurs produits fonctionnent, garantissant que leur propriété intellectuelle est protégée ou que le comportement de l'utilisateur est gouverné par certaines règles. Le temps d'écran donne aux utilisateurs d'iPhone un contrôle sur la façon dont l'appareil est utilisé, limitant l'accès à certaines fonctions et gérant le comportement, en particulier pour les enfants ou les utilisateurs qui peuvent avoir besoin d'une orientation.
 
