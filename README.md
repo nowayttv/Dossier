@@ -14,6 +14,9 @@ Difficile à contourner : De la même manière que les MPT incluent souvent des 
 Contrôle des fonctionnalités : Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un contrôle sur l'environnement dans lequel leurs produits fonctionnent, garantissant que leur propriété intellectuelle est protégée ou que le comportement de l'utilisateur est gouverné par certaines règles. Le temps d'écran donne aux utilisateurs d'iPhone un contrôle sur la façon dont l'appareil est utilisé, limitant l'accès à certaines fonctions et gérant le comportement, en particulier pour les enfants ou les utilisateurs qui peuvent avoir besoin d'une orientation.
 En raison de ces parallèles, le temps d'écran fonctionne essentiellement comme une MPT personnelle qui régit la manière dont un appareil est utilisé et impose des limitations définies par l'utilisateur, ce qui le rend similaire au fonctionnement d'une MPT dans le domaine de la protection des logiciels.
 
+A rajouter:
+https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt
+
 ## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
 
 Le contrôle du **Temps d'Écran** sur iOS est une fonctionnalité conçue pour protéger les utilisateurs contre les risques liés à l’utilisation excessive des appareils mobiles. Elle propose plusieurs mécanismes permettant de limiter et de contrôler l’usage de l’iPhone, tant pour les adultes que pour les enfants. Voici en quoi elle peut être perçue comme une mesure technique de protection.
