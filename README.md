@@ -23,7 +23,7 @@ Une MPT est destinée à donner aux créateurs de logiciels ou de matériels un 
 En raison de ces parallèles, le temps d'écran fonctionne essentiellement comme une MPT personnelle qui régit la manière dont un appareil est utilisé et impose des limitations définies par l'utilisateur, ce qui le rend similaire au fonctionnement d'une MPT dans le domaine de la protection des logiciels.
 
 ## Lien GitHub
-https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt
+This is a link [https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt]
 
 ## En quoi le contrôle Temps d'Écran iOS est une mesure technique de protection ?
 
