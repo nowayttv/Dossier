@@ -33,6 +33,23 @@ Le contrôle du **Temps d'Écran** sur iOS est une fonctionnalité conçue pour 
 #### Conclusion
 Le contrôle du Temps d'Écran sur iOS représente une mesure technique essentielle de protection. Il permet de garantir une utilisation équilibrée des appareils, favorise le bien-être des utilisateurs, protège les enfants des dangers d’un usage excessif et améliore la gestion du temps. Par son approche préventive et ses outils de contrôle, le Temps d'Écran devient un outil clé pour préserver la santé numérique et encourager des comportements responsables face à la technologie.
 
+## Définition : 
+
+## 1. Faille logicielle : 
+Une faille logicielle est une vulnérabilité ou une erreur dans un programme informatique qui peut être exploitée pour compromettre la sécurité du système. Ces failles peuvent permettre à un attaquant d'exécuter du code malveillant, d'accéder à des données sensibles ou de perturber le fonctionnement du logiciel.
+
+## 2. Faille "0 day" : 
+Une faille "zero-day" est une vulnérabilité qui n'a pas encore été corrigée par l'éditeur du logiciel et qui est inconnue du public ou du développeur. Les attaquants peuvent l'exploiter avant qu'un correctif ne soit disponible, rendant ces attaques particulièrement dangereuses.
+
+## 3. Backdoor (Porte dérobée) : 
+Une backdoor est un accès caché dans un logiciel ou un système informatique, intentionnellement ou accidentellement laissé par un développeur ou implanté par un attaquant. Elle permet de contourner les mécanismes de sécurité pour obtenir un accès non autorisé à l'ordinateur ou au réseau.
+
+## 4. Ingénierie sociale : 
+L’ingénierie sociale est une technique de manipulation psychologique visant à tromper une personne pour l’amener à divulguer des informations sensibles, telles que des mots de passe ou des données confidentielles. Elle repose sur la confiance, la curiosité ou l’urgence pour exploiter la faiblesse humaine plutôt que les failles techniques.
+
+## 5. Jailbreak (dans le cas du contrôle à distance de l’écran) : 
+Le jailbreak consiste à contourner les restrictions imposées par un système d’exploitation (comme iOS) pour obtenir des privilèges élevés et exécuter des applications non autorisées. Dans le contexte du contrôle à distance de l’écran, un jailbreak peut être utilisé pour installer des logiciels permettant de surveiller ou de manipuler un appareil sans l’autorisation de l’utilisateur.
+
 ## Comment contourner le temps d'écran sur son iPhone sous iOS 18
 
 Le "Temps d'écran" est une fonctionnalité d'Apple qui permet de suivre et de limiter l'utilisation de votre appareil, mais il peut être contourné dans certains cas. Voici des astuces pour contourner le temps d'écran sur iOS 18. **Notez que contourner ces restrictions sans autorisation peut violer les règles d'usage et affecter la sécurité de l'appareil.**
