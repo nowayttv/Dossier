@@ -91,3 +91,47 @@ Le contournement des restrictions de Temps d'écran peut avoir des conséquences
 ## Conclusion
 Le "Temps d'écran" d'iOS 18 est une fonctionnalité utile, mais il existe plusieurs façons de contourner ses limitations si nécessaire. Toutefois, il est toujours préférable d'utiliser ces options de manière responsable. Assurez-vous de bien comprendre les risques avant de procéder à des modifications.
 
+## Introduction parents
+
+# Étude MTP Logicielle : Contournement du Contrôle du Temps d’Écran  
+
+## 1. Introduction  
+Le contrôle du temps d’écran est une **mesure technique de protection (MTP)** utilisée pour réguler l’utilisation des appareils numériques, en particulier pour les enfants et les adolescents. Cependant, diverses **méthodes de contournement** ont été développées, compromettant son efficacité.  
+
+Cette étude analyse les **failles logicielles et les techniques d’évasion** permettant de contourner le contrôle du temps d’écran, ainsi que les mesures de protection possibles.  
+
+## 2. Méthodes de contournement identifiées  
+
+### 2.1. Exploitation des failles logicielles  
+- **Faille "0-Day" et vulnérabilités système** : Certains utilisateurs exploitent des failles non corrigées pour désactiver ou manipuler les restrictions du temps d’écran.  
+- **Utilisation d’un bug d’horloge** : Sur certains systèmes, modifier l’heure manuellement peut permettre de réinitialiser ou d’outrepasser les limites fixées.  
+
+### 2.2. Contournement via l’ingénierie sociale  
+- **Utilisation d’un autre appareil** : L’utilisateur se connecte à un autre appareil non restreint pour accéder aux mêmes services.  
+- **Demande de code parental sous prétexte d’un besoin urgent** : Technique de manipulation visant à obtenir le mot de passe.  
+
+### 2.3. Techniques basées sur les comptes utilisateurs  
+- **Création d’un nouvel utilisateur** : Sur certains OS, un compte secondaire peut ne pas être soumis aux restrictions.  
+- **Mode Invité** : L’accès à un mode sans restriction permet d’échapper aux limitations imposées sur le compte principal.  
+
+### 2.4. Utilisation de logiciels tiers et VPN  
+- **Applications tierces** : Certains logiciels permettent de masquer ou modifier les paramètres de restriction.  
+- **Utilisation de VPN** : Un VPN peut contourner les restrictions basées sur le réseau et les filtres parentaux.  
+
+## 3. Mesures de protection contre le contournement  
+
+### 3.1. Sécurisation du système  
+- **Mises à jour régulières** : Corriger les vulnérabilités exploitables pour empêcher le contournement.  
+- **Verrouillage des paramètres système** : Restreindre l’accès aux modifications d’heure et aux comptes utilisateurs.  
+
+### 3.2. Renforcement de la gestion des comptes  
+- **Désactivation du mode Invité** : Empêcher l’accès à un environnement non contrôlé.  
+- **Authentification parentale renforcée** : Utiliser l’authentification biométrique ou un second facteur pour modifier les restrictions.  
+
+### 3.3. Surveillance et éducation numérique  
+- **Analyse des logs et notifications** : Détecter les tentatives de contournement via un journal d’activité.  
+- **Éducation des utilisateurs** : Sensibiliser les enfants et adolescents aux dangers du contournement et aux bonnes pratiques numériques.  
+
+## 4. Conclusion  
+Le contrôle du temps d’écran est une MTP efficace, mais vulnérable à plusieurs formes de contournement. Une **approche combinant sécurité technique, sensibilisation et surveillance** est essentielle pour en garantir l’efficacité et limiter les risques liés à un usage excessif ou inapproprié des technologies numériques.  
+
