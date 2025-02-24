@@ -2,7 +2,7 @@
 
 ## Introduction : 
 
-## Texte expliquation
+## Texte explication
 
 Le temps d'écran sur un iPhone peut être assimilé à une mesure de protection technique (MPT) dans les logiciels car il fonctionne de manière à contrôler et limiter l'accès à certaines fonctionnalités ou applications du périphérique, tout comme les MPT limitent ou gèrent l'accès au contenu numérique dans les logiciels.
 
