@@ -4,8 +4,6 @@ https://www.wikihow.com/Hack-Screen-Time
 
 ## Introduction : 
 
-# reformulate your previous document as if written by a child and translate to in french
-
 ---
 
 ## Analyse des risques pour contourner le Temps d'écran sur iOS 18
