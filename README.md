@@ -4,6 +4,61 @@ https://www.wikihow.com/Hack-Screen-Time
 
 ## Introduction : 
 
+# reformulate your previous document as if written by a child and translate to in french
+
+---
+
+## Analyse des risques pour contourner le Temps d'écran sur iOS 18
+
+Salut ! J'ai réfléchi à comment je pourrais dépasser les limites du Temps d'écran sur mon iPhone, mais je me demande si c'est une bonne idée. Voici ce que j'ai trouvé :
+
+### Risque de se faire prendre
+
+1. Changer la date et l'heure :
+    - Pas trop risqué
+    - Mes parents pourraient remarquer que l'heure est fausse
+    - Facile à remettre comme avant
+2. Utiliser des applications spéciales pour débloquer :
+    - Très risqué
+    - Ça laisse des traces sur le téléphone
+    - Il faut télécharger des trucs bizarres
+3. Supprimer et réinstaller les applis :
+    - Un peu risqué
+    - Mes parents pourraient voir que des applis ont disparu
+    - Le Temps d'écran se remet à zéro, ça peut être louche
+4. Utiliser des bugs :
+    - Pas trop risqué, ça dépend comment on fait
+    - Ça peut être corrigé plus tard
+    - Certains trucs ne laissent pas de traces
+
+### Risque d'énerver mes parents
+
+1. Réinitialiser complètement le téléphone :
+    - Super risqué, ils vont être très fâchés
+    - Ça efface tout sur le téléphone
+    - Ils vont tout de suite savoir que j'ai fait exprès
+2. Utiliser Siri ou les Contacts pour envoyer des messages :
+    - Pas trop risqué
+    - Ils pourraient penser que je suis malin
+    - Ils ne seront peut-être pas trop fâchés
+3. Voler le mot de passe du Temps d'écran :
+    - Hyper risqué s'ils s'en rendent compte
+    - Ils ne me feront plus confiance du tout
+    - Je pourrais avoir encore plus de restrictions
+4. Utiliser de vieux appareils :
+    - Assez risqué
+    - Ça montre que je veux vraiment contourner les règles
+    - Ils pourraient me prendre mes autres appareils
+
+### Autres choses à penser
+
+- C'est pas très gentil de faire ça, ça va contre les règles de la famille
+- Si je passe trop de temps sur mon téléphone, ça peut être mauvais pour mes notes et mes amis
+- Certaines méthodes peuvent être dangereuses pour mon téléphone
+
+Je me dis que même si je peux avoir plus de temps sur mon téléphone, ça peut créer des problèmes avec mes parents. Peut-être que ce serait mieux d'en parler avec eux ?
+
+
 ## Texte explication
 
 Le temps d'écran sur un iPhone peut être assimilé à une mesure de protection technique (MPT) dans les logiciels car il fonctionne de manière à contrôler et limiter l'accès à certaines fonctionnalités ou applications du périphérique, tout comme les MPT limitent ou gèrent l'accès au contenu numérique dans les logiciels.
